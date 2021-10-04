@@ -80,9 +80,21 @@
  <img src="images/Screen Shot 2021-10-03 at 9.48.54 PM.png" alt="Logo" width="225" height="250">
 
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email`, `email_client`, `project_title`, `project_description`
+ `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email`, `email_client`, `project_title`, `project_description`
 
 <p align="right">(<a href="#top">back to top</a>)</p>
+
+# Quantum Machine Learning
+Quantum machine learning is the integration of quantum algorithms within machine learning programs. The most common use of the term refers to machine learning algorithms for the analysis of classical data executed on a quantum computer, i.e. quantum-enhanced machine learning.
+
+### What is quantum computing?
+Quantum computing applies the properties of quantum physics to process information. Operating with nanoscale components at temperatures colder than intergalactic space, quantum computing has the potential to solve some of the world’s toughest challenges. Quantum computers will enable new discoveries in the areas of healthcare, energy, environmental systems, smart materials, and beyond.
+
+### What are the benefits of quantum computing?
+Where current computers would require billions of years to solve the world’s most challenging problems, a quantum computer would find a solution in minutes, hours, or days. Quantum computing will enable researchers to develop new catalysts and materials, improve medicines, accelerate advances in artificial intelligence, and answer fundamental questions about the origins of our universe.
+
+### Intro
+https://caiomsouza.medium.com/quantum-computing-intro-and-microsoft-quantum-development-kit-samples-fc1e0cc28e37
 
 
 
