@@ -75,10 +75,10 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
+<div align="center">
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="images/Screen Shot 2021-10-03 at 9.37.29 PM.png" alt="Logo" width="255" height="250">   <img src="images/Screen Shot 2021-10-03 at 9.49.29 PM.png" alt="Logo" width="255" height="250">   <img src="images/Screen Shot 2021-10-03 at 9.37.45 PM.png" alt="Logo" width="255" height="250"> 
 
-
+</div>
 
  `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email`, `email_client`, `project_title`, `project_description`
 
