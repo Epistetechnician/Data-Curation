@@ -24,7 +24,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Epistetechnician/Data-Curation">
-    <img src="images/Screen Shot 2021-10-03 at 9.34.49 PM.png" alt="Logo" width="80" height="80">
+    <img src="https://camo.githubusercontent.com/989e1fa14ad9455f8e76f62d7497dd9fc7eaa728fe819641dc372c3728e5e446/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4d6573737948616e646d616465447261676f6e2d736d616c6c2e676966" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Data In Life</h3>
