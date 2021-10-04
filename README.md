@@ -76,7 +76,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<img src="images/Screen Shot 2021-10-03 at 9.37.29 PM.png" alt="Logo" width="250" height="250"> <img src="images/Screen Shot 2021-10-03 at 9.37.45 PM.png" alt="Logo" width="250" height="250">
+<img src="images/Screen Shot 2021-10-03 at 9.37.29 PM.png" alt="Logo" width="250" height="250"> <img src="images/Screen Shot 2021-10-03 at 9.48.54 PM.png" alt="Logo" width="250" height="250"> <img src="images/Screen Shot 2021-10-03 at 9.37.45 PM.png" alt="Logo" width="250" height="250"> 
+<img src="images/Screen Shot 2021-10-03 at 9.49.29 PM.png" alt="Logo" width="250" height="250">
+
 
 Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email`, `email_client`, `project_title`, `project_description`
 
