@@ -76,7 +76,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<img src="images/Screen Shot 2021-10-03 at 9.37.29 PM.png" alt="Logo" width="255" height="250"> <  > <img src="images/Screen Shot 2021-10-03 at 9.49.29 PM.png" alt="Logo" width="255" height="250"> <  > <img src="images/Screen Shot 2021-10-03 at 9.37.45 PM.png" alt="Logo" width="255" height="250"> 
+<img src="images/Screen Shot 2021-10-03 at 9.37.29 PM.png" alt="Logo" width="255" height="250">       <img src="images/Screen Shot 2021-10-03 at 9.49.29 PM.png" alt="Logo" width="255" height="250">         <img src="images/Screen Shot 2021-10-03 at 9.37.45 PM.png" alt="Logo" width="255" height="250"> 
 
 
 
