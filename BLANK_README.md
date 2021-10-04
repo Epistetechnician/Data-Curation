@@ -30,7 +30,7 @@
 <h3 align="center">Data In Life</h3>
 
   <p align="center">
-    project_description
+    This project is a culmination of an effort to derive value and meaning through different data-focused initiatives.
     <br />
     <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br />
