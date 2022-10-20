@@ -102,12 +102,12 @@ https://caiomsouza.medium.com/quantum-computing-intro-and-microsoft-quantum-deve
 
 * [Next.js](https://nextjs.org/)
 * [React.js](https://reactjs.org/)
-* [Vue.js](https://vuejs.org/)
-* [Angular](https://angular.io/)
-* [Svelte](https://svelte.dev/)
-* [Laravel](https://laravel.com)
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
+* [pandas](https://pandas.org/)
+* [jupyter notebook](https://jupyternotebook.io/)
+* [pj5s](https://pj5s.dev/)
+* [umap](https://umap.com)
+* [numpy](https://numpy.com)
+* [sklearn](https://sklearn.com)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -202,9 +202,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
-
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Your Name - [@epistetechnician](https://twitter.com/epistetechnic) - patel.s.shaan21@gmail.com
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
